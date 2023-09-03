@@ -46,7 +46,6 @@ hobbies: ["Hiking", "Climbing", "Reading"]
   <img alt="vue" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/vue.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="bulma" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/bulma.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="tailwind" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/tailwind.svg" style="vertical-align:top; margin:4px; height:38px">
-  <img alt="postgresql" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/postgresql.svg" style="vertical-align:top; margin:4px; height:38px">
 </p>
 
 ### Technologies
@@ -55,6 +54,7 @@ hobbies: ["Hiking", "Climbing", "Reading"]
   <img alt="docker" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/tools/docker.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="linux" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/misc/linux.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="nodejs" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/misc/nodejs.svg" style="vertical-align:top; margin:4px; height:38px">
+  <img alt="postgresql" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/postgresql.svg" style="vertical-align:top; margin:4px; height:38px">
 </p>
 
 ---
