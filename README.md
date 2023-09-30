@@ -27,7 +27,6 @@ education:
     "M. Sc. in Business Informatics, University of Duisburg-Essen",
     "B. Sc. in Business Informatics, University of Paderborn",
   ]
-company: WPS Management
 
 currently_learning: ["NixOS"]
 hobbies: ["Hiking", "Climbing", "Reading"]
