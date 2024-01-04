@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Karolin Schlegel
 located_in: Paderborn, Germany
-current_job: IT Consultant
+current_job: Software Engineer
 education:
   [
     "M. Sc. in Business Informatics, University of Duisburg-Essen",
