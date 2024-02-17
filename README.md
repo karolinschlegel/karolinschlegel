@@ -41,7 +41,7 @@ hobbies: ["Hiking", "Climbing", "Reading"]
   <img alt="rust" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/rust.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="csharp" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/csharp.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="html" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/html.svg" style="vertical-align:top; margin:4px; height:38px">
-  <img alt="js" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/js.svg" style="vertical-align:top; margin:4px; height:38px">
+  <!--<img alt="js" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/js.svg" style="vertical-align:top; margin:4px; height:38px">-->
   <img alt="vue" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/vue.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="bulma" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/bulma.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="tailwind" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/tailwind.svg" style="vertical-align:top; margin:4px; height:38px">
