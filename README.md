@@ -36,9 +36,9 @@ hobbies: ["Hiking", "Climbing", "Reading"]
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img alt="rust" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/rust.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="java" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/java.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="python" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/python.svg" style="vertical-align:top; margin:4px; height:38px">
-  <img alt="rust" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/rust.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="csharp" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/csharp.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="html" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/html.svg" style="vertical-align:top; margin:4px; height:38px">
   <!--<img alt="js" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/languages/js.svg" style="vertical-align:top; margin:4px; height:38px">-->
@@ -52,8 +52,8 @@ hobbies: ["Hiking", "Climbing", "Reading"]
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img alt="docker" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/tools/docker.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="linux" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/misc/linux.svg" style="vertical-align:top; margin:4px; height:38px">
-  <img alt="nodejs" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/misc/nodejs.svg" style="vertical-align:top; margin:4px; height:38px">
   <img alt="postgresql" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/frameworks/postgresql.svg" style="vertical-align:top; margin:4px; height:38px">
+  <img alt="nodejs" src="https://github.com/karolinschlegel/karolinschlegel/blob/main/Badges/dev/misc/nodejs.svg" style="vertical-align:top; margin:4px; height:38px">
 </p>
 
 ---
